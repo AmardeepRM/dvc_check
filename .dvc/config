@@ -1,0 +1,4 @@
+[core]
+    remote = db_check
+['remote "db_check"']
+    url = /home/mantra/Projects/dvc_storage

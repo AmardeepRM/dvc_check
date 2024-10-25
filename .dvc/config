@@ -1,4 +1,6 @@
 [core]
-    remote = store
+    remote = storage
 ['remote "store"']
+    url = /home/mantra/Projects/dvc_check/storage
+['remote "storage"']
     url = /home/mantra/Projects/dvc_check/storage
